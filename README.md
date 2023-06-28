@@ -1,4 +1,4 @@
-## 404 Page Animation ✨
+## 404 Page Animation 🎯
 Complete Responsive Website Using JS, HTML and CSS.
 
 ![Language count](https://img.shields.io/github/languages/count/letnagao/404-page-animation?color=green)
@@ -9,11 +9,12 @@ Complete Responsive Website Using JS, HTML and CSS.
 [![GitHub watchers](https://img.shields.io/github/watchers/letnagao/404-page-animation?logo=GitHub)](https://github.com/letnagao/404-page-animation/watchers)
 ![Maintained](https://img.shields.io/maintenance/yes/9999)
 
-## Preview 🔥
-<p>
-<video src="https://user-images.githubusercontent.com/99754900/184515893-02ad4c84-818a-4115-9e57-2899f3dbae99.mp4" />
-</p>
-
+</ul><h2> Preview ⚡️</h2>
+<table align="center">
+  <tr>
+    <td><video src="https://user-images.githubusercontent.com/99754900/184515893-02ad4c84-818a-4115-9e57-2899f3dbae99.mp4" width=1280 height=800></td>
+  </tr>
+</table>
 
 </ul><h2>Technologies Used 🛠️</h2>
 <ul>
